@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithin Kumar U</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
-<img align="center" alt="coding" height="500" width=1300" src="https://media-s3-us-east-1.ceros.com/chronicle-of-higher-education/images/2023/01/16/6c2f18be5e27200c888462b65f4514ca/adoberesourcecenter-animation.gif">
+<img align="center" alt="coding" height="500" width=700" src="https://media-s3-us-east-1.ceros.com/chronicle-of-higher-education/images/2023/01/16/6c2f18be5e27200c888462b65f4514ca/adoberesourcecenter-animation.gif">
 
 
 
